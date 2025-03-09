@@ -45,7 +45,6 @@ Here’s an example of what the server response looks like:
   - Clone the repository:
 ```bash
 git clone https://github.com/Tanvi3004/Language-Translation-API-with-Server-Response.git
-cd language-translation-api
 ```
  - Install the required dependencies:
 ```bash
