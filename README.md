@@ -33,7 +33,7 @@ This project demonstrates a simple API for language translation. It accepts a te
 
 Here’s an example of what the server response looks like:
 
-![Screenshot](Screenshot_2025-03-08_at_6.54.38_PM.png)
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/b03ba5af-519c-419e-8997-ae5fab90ae0b" />
 
 ## Requirements
   - To run this project, you need the following dependencies:
